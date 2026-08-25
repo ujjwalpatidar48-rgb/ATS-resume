@@ -1,6 +1,0 @@
-streamlit
-PyMuPDF
-python-docx
-scikit-learn
-reportlab
-openai
